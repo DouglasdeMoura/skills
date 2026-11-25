@@ -1,0 +1,3 @@
+interface:
+  display_name: "UI Skills Advisor"
+  short_description: "Pick, install, and apply the right aiforui.dev UI skills for this project"
